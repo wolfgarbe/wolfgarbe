@@ -1,10 +1,8 @@
-### Wolf Garbe
-
-🔭 I’m currently working on 
+🔭 I’m currently working on:<br>
  **SeekStorm**: [Affordable, high performance Search-as-a-service](https://seekstorm.com/)<br>
  **SymSpell**: [1 million times faster spelling correction & Fuzzy search](https://github.com/wolfgarbe/SymSpell)<br>
 
-📫 How to reach me: 
+📫 How to reach me:<br>
 **Medium**: https://medium.com/@wolfgarbe<br>
 **LinkedIn**: https://www.linkedin.com/in/wolfgarbe/<br>
 
