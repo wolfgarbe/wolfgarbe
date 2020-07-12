@@ -1,10 +1,18 @@
-### Hi there 👋
+### Wolf Garbe
+
+🔭 I’m currently working on 
+ **SeekStorm**: [Affordable, high performance Search-as-a-service](https://seekstorm.com/)<br>
+ **SymSpell**: [1 million times faster spelling correction & Fuzzy search](https://github.com/wolfgarbe/SymSpell)<br>
+
+📫 How to reach me: 
+**Medium**: https://medium.com/@wolfgarbe<br>
+**LinkedIn**: https://www.linkedin.com/in/wolfgarbe/<br>
 
 <!--
 **wolfgarbe/wolfgarbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
