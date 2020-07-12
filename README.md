@@ -3,10 +3,7 @@
  **SymSpell**: [1 million times faster spelling correction & Fuzzy search](https://github.com/wolfgarbe/SymSpell)<br>
  **PruningRadixTrie**: [1000x faster Radix trie for prefix search & auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)<br>
 
-📫 How to reach me:<br>
-**Medium**: https://medium.com/@wolfgarbe<br>
-**LinkedIn**: https://www.linkedin.com/in/wolfgarbe/<br>
-**Twitter**: https://twitter.com/faroo_p2p<br>
+📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/wolfgarbe/), [Twitter](https://twitter.com/faroo_p2p) or read my posts on [Medium](https://medium.com/@wolfgarbe)
 
 <!--
 **wolfgarbe/wolfgarbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
