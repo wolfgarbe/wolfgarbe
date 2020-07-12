@@ -6,6 +6,7 @@
 📫 How to reach me:<br>
 **Medium**: https://medium.com/@wolfgarbe<br>
 **LinkedIn**: https://www.linkedin.com/in/wolfgarbe/<br>
+**Twitter**: https://twitter.com/faroo_p2p<br>
 
 <!--
 **wolfgarbe/wolfgarbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
