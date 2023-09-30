@@ -1,5 +1,5 @@
 🔭 I’m currently working on:<br>
- **SeekStorm**: [Affordable, high performance Search-as-a-service](https://seekstorm.com/)<br>
+ **SeekStorm**: [Affordable, high performance Search-as-a-service](https://seekstorm.com/). Currently porting the SeekStorm sub-millisecond full-text search library to Rust, to be open sourced under Apache License 2.0.<br>
  **SymSpell**: [1 million times faster spelling correction & Fuzzy search](https://github.com/wolfgarbe/SymSpell)<br>
  **PruningRadixTrie**: [1000x faster Radix trie for prefix search & auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)<br>
 
