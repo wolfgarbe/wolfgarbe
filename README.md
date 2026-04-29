@@ -1,5 +1,5 @@
 🔭 I’m currently working on:<br>
- **SeekStorm SaaS**: [Affordable, high performance Search-as-a-service](https:seekstorm.com).<br>
+ **SeekStorm SaaS**: [Affordable, high performance Search-as-a-service](https://seekstorm.com).<br>
  **SeekStorm OSS**: [Open-source, sub-millisecond vector & lexical search, in-process library & multi-tenancy server (Rust)](https://github.com/SeekStorm/SeekStorm).<br>
  **SymSpell**: [1 million times faster spelling correction & Fuzzy search](https://github.com/wolfgarbe/SymSpell)<br>
  **PruningRadixTrie**: [1000x faster Radix trie for prefix search & auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)<br>
